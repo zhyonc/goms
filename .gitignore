@@ -19,3 +19,8 @@
 
 # Go workspace file
 go.work
+
+# Temp file
+*.toml
+*.nx
+*.txt
